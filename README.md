@@ -21,7 +21,10 @@ OTR-metoden (Observation, Tolkning, Rekommendation) tillämpades för att strukt
 1.  **Hög trafikvolym men låg konvertering på mobila enheter:** Mobiltrafik driver fler sessioner än datorer, men har en betydligt lägre engagemangsgrad (15,02 % på mobil jämfört med 59,78 % på dator).
 2.  **Organisk sökning är starkast:** Kanalen "Organic Shopping" driver den största konverteringsgraden oberoende av enhet, vilket indikerar stark varumärkeskännedom.
 3.  **Teknisk friktion i e-postkanalen:** En extrem skillnad upptäcktes där e-postkanalen hade 1010 nyckelhändelser på dator, men endast 2 på mobil. Detta tyder på inkompatibilitet eller trasiga länkar i den mobila e-postklienten.
+<img width="732" height="247" alt="image" src="https://github.com/user-attachments/assets/a154dc79-ab04-4a9e-a9fb-27ae9c563817" />
+
 4.  **Kritiska datakvalitetsavvikelser i köptratten:** Trattanalysen (Funnel exploration) visade en orealistisk slutförandegrad på över 99,8 % mellan `begin_checkout` och `purchase`. Detta indikerar ett allvarligt spårningsfel i GTM vid det sista steget i utcheckningen.
+<img width="725" height="316" alt="image" src="https://github.com/user-attachments/assets/d403df3f-0be9-49f3-b116-f2794f9282e7" />
 
 ## 🚀 Rekommenderade Åtgärder
 Baserat på analysen rekommenderas följande datadrivna åtgärder för att garantera datakvalitet och minska friktion:

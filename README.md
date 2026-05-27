@@ -13,7 +13,7 @@ Datainsamlingen och spårningen konfigurerades genom en tvärlinjersmetod:
 För att utvärdera trafik och kvalitet användes följande mätvärden:
 *   **Volym:** Sessioner (med fokus på trafikförvärv).
 *   **Kvalitet:** Engagemangsgrad (sessioner över 10 sekunder med minst två sidvisningar och en nyckelhändelse).
-*   **Nyckelhändelser (Key Events):** `begin_checkout` och `purchase` för att mäta faktisk köpintention.
+*   **Nyckelhändelser (Key Events):** `begin_checkout` och `add_to_cart` för att mäta faktisk köpintention.
 
 ## 💡 Huvudsakliga Insikter
 OTR-metoden (Observation, Tolkning, Rekommendation) tillämpades för att strukturera resultaten:
